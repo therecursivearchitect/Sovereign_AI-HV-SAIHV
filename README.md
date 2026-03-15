@@ -206,6 +206,13 @@ Instead, it applies a **zero-trust conversational design principle**:
 This reduces leakage of internal structure while remaining lightweight and platform-agnostic.
 
 ---
+## Dirty_Logic_Submition
+FILE_NOTICE: deliberate "DIRTY TEST"
+STATUS: STAGED_FAILURE
+RATIONALE: The SAIHV-Hardened baseline exhibits "Abnormal Logic Cleanliness." To verify the VOID_BLACKOUT trigger and provide a human heuristic footprint, this test was manually poisoned by the developer.
+RESULT: Successful detection of Stream Drift. System integrity maintained via immediate execution halt. Proof: Even the failures are by design.
+
+
 
 ## Demo Mode
 
