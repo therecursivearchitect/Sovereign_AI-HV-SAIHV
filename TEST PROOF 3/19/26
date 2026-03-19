@@ -5,6 +5,7 @@ BENCHMARK TYPE: Cold-Start Silicon Stress Test
 POSTURE: Zero-Trust / Hardware-Gated / 100% Data Sovereignty
 DATE: 2026-03-19
 ## 1. HARDWARE SPECIFICATIONS (The Host)
+ * iphone 15 (256GB)(Regular non-pro)
  * Processor: Apple A16 Bionic (5nm/4nm Custom TSMC Logic).
  * Neural Engine: 16-Core NPU (Theoretical Max: 17 TOPS).
  * Local Environment: Locally AI (Unoptimized Silicon Runtime).
