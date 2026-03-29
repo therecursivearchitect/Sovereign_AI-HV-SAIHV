@@ -23,7 +23,7 @@ S•A•I•H•V is a non-invasive, model-agnostic governance runtime that func
 II. THE 5-LAYER LOGIC STACK
 1. Initialization Layer (Boot-Level)
  * Protocol: [DIVINE_FILTER] auto-injection.
- * Gate: [VOID_BLACKOUT] trigger for logic-identity failure (1+1≠2).
+ * Gate: [VOID_BLACKOUT] trigger for logic-identity failure (TEST).
  * Verification: Interaction-based heuristic (No-Passcode/Behavioral Sync).
 
 2. Identity Profile Layer (Substrate)
