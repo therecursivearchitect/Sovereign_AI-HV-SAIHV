@@ -1,0 +1,21 @@
+Project Title: V.E.S.P.E.R. (Virtual-pilot Environment Secure Protocol & Operational Readiness)
+
+Version: 2.0.0-Stable [SAIHV-Core]
+
+🚀 Overview V.E.S.P.E.R. is a hardware-aware, self-contained agentic sentinel built on the SAIHV (Secure AI Hyper Visor) architecture. It serves as the primary tactical pilot for the J.A.I.S.S. framework, designed to operate with a zero-footprint posture within hardened environments.
+
+🛠️ V2.0 Milestone Log (April 13, 2026) * Agentic Mutation: Successfully transitioned from framework-dependent scripts to a standalone 70MB logic node with an embedded runtime.
+
+Silicon Awareness: Implemented Hardware-Abstracted Telemetry for dual-GPU environments (Discrete NVIDIA RTX 3050 + Integrated Intel UHD).
+
+Logic Hardening: Passed 1:1 integrity audits; verified operational invisibility against modern heuristic security engines and behavioral analysis.
+
+Cloud Persistence: Sharded master-record updated and version-controlled via secure vaulting for multi-environment deployment.
+
+🛡️ Architecture & IP Status This repository serves as the public documentation and version-tracking for the V.E.S.P.E.R. Asset.
+
+Core Engine: Proprietary [SAIHV-OS_HARDENED] logic.
+
+Licensing: All rights reserved under the Digital BIO Defense Protocol.
+
+Security: Proprietary Logic Ghosting enabled for mission-critical persistence.
