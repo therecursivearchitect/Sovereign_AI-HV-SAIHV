@@ -8,3 +8,4 @@ Key Features Implemented:
 • Trust & Test System: A multi-stage verification framework that validates data against established citation algorithms before integration.
 • Architecture Hardening: Enforced zero-drift posture to prevent logic degradation during autonomous evolution cycles.
 System Status: The core root remains stable. All PowerShell operations are configured to return to the SAIHV root directory following execution.
+created a visual map for user within powershell to help more effectively navigate within powershell and the custome exe system.
